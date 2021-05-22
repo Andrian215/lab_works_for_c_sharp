@@ -63,6 +63,36 @@ namespace TheGame.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _80aee9f0b1f3518ca1d2cfb4e38e5c26 {
+            get {
+                object obj = ResourceManager.GetObject("80aee9f0b1f3518ca1d2cfb4e38e5c26", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _9d2c2cd2_0bc6_4ee9_ab8a_c3a6cb2c01e9__1_ {
+            get {
+                object obj = ResourceManager.GetObject("9d2c2cd2-0bc6-4ee9-ab8a-c3a6cb2c01e9 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap animfon_1920_1031_jpg_0_100 {
+            get {
+                object obj = ResourceManager.GetObject("animfon_1920_1031_jpg_0_100", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap depositphotos_300883024_stock_photo_grunge_textured_background {
             get {
                 object obj = ResourceManager.GetObject("depositphotos_300883024-stock-photo-grunge-textured-background", resourceCulture);
@@ -73,9 +103,59 @@ namespace TheGame.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap images {
+            get {
+                object obj = ResourceManager.GetObject("images", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap images__1_ {
+            get {
+                object obj = ResourceManager.GetObject("images (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap kek {
+            get {
+                object obj = ResourceManager.GetObject("kek", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ssas {
+            get {
+                object obj = ResourceManager.GetObject("ssas", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Безымянный {
             get {
                 object obj = ResourceManager.GetObject("Безымянный", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Безымянный1 {
+            get {
+                object obj = ResourceManager.GetObject("Безымянный1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

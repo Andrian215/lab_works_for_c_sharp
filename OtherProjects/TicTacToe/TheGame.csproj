@@ -86,5 +86,29 @@
   <ItemGroup>
     <None Include="Resources\depositphotos_300883024-stock-photo-grunge-textured-background.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ssas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kek.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Безымянный1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9d2c2cd2-0bc6-4ee9-ab8a-c3a6cb2c01e9 %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\animfon_1920_1031_jpg_0_100.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\80aee9f0b1f3518ca1d2cfb4e38e5c26.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
